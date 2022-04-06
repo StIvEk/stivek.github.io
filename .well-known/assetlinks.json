@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fourth.marketplace.qa",
+    "sha256_cert_fingerprints":
+    ["A6:98:CA:F5:23:25:28:7A:C3:8A:77:C2:86:B0:86:B8:54:57:BC:A7:88:6A:2C:AB:1B:2B:EB:14:7C:02:93:07"]
+  }
+}]
